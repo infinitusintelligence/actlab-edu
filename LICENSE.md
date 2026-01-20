@@ -1,10 +1,80 @@
-# ACT LAB — Authorial License
+# ACT LAB — Licença Autoral / Authorial License
 
 Copyright (c) 2026  
 Sandra Maria Pereira  
-All rights reserved.
+Todos os direitos reservados / All rights reserved.
 
 ---
+
+## 🇧🇷 PORTUGUÊS
+
+## 1. Escopo desta Licença
+
+Este repositório contém o método educacional denominado **ACT LAB (Action, Creation and Technology)**, incluindo seu arcabouço conceitual, estrutura pedagógica, documentação, terminologia e materiais relacionados.
+
+Todo o conteúdo é protegido como obra intelectual.
+
+---
+
+## 2. Titularidade e Autoria
+
+O método ACT LAB é uma metodologia educacional original criada por **Sandra Maria Pereira**.
+
+Nada nesta licença deve ser interpretado como transferência de titularidade, autoria ou direitos patrimoniais.
+
+---
+
+## 3. Uso Permitido
+
+Instituições educacionais podem solicitar autorização para uso do ACT LAB desde que atendidas as seguintes condições:
+
+- Uso **exclusivamente pedagógico e não comercial**  
+- Uso **não exclusivo**  
+- Uso restrito ao contexto educacional interno da instituição  
+- Atribuição explícita e obrigatória à autora  
+
+A autorização deve ser concedida de forma **expressa e por escrito** pela autora.
+
+---
+
+## 4. Uso Proibido
+
+Sem autorização prévia e expressa da autora, é estritamente proibido:
+
+- Uso comercial total ou parcial do método  
+- Redistribuição, publicação ou divulgação dos materiais  
+- Adaptação, modificação ou criação de obras derivadas  
+- Uso em programas de formação, consultorias ou produtos  
+- Licenciamento ou sublicenciamento a terceiros  
+
+---
+
+## 5. Trabalhos dos Estudantes
+
+Os projetos, códigos e soluções desenvolvidos pelos estudantes no âmbito do ACT LAB permanecem como propriedade intelectual de seus respectivos autores.
+
+Esta licença aplica-se exclusivamente à metodologia ACT LAB, não aos produtos ou resultados desenvolvidos pelos alunos.
+
+---
+
+## 6. Isenção de Garantias
+
+O ACT LAB é fornecido “no estado em que se encontra” para uso educacional autorizado.  
+A autora não oferece garantias quanto a resultados específicos de aprendizagem.
+
+---
+
+## 7. Contato
+
+Solicitações de uso pedagógico, parcerias ou licenciamento devem ser direcionadas à autora.
+
+---
+
+© 2026 Sandra Maria Pereira
+
+---
+
+## 🇺🇸 ENGLISH
 
 ## 1. Scope of This License
 
@@ -69,3 +139,4 @@ Requests for pedagogical use, partnerships, or licensing inquiries must be direc
 ---
 
 © 2026 Sandra Maria Pereira
+
