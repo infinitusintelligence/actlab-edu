@@ -8,9 +8,11 @@ act-lab-core/
 
 │
 
-├── README.md                # Documento principal (pitch + método)
+├── README.md                # Documento principal
 
-├── LICENSE.md               # Licença autoral customizada
+├── PITCH.md                # Pitch
+
+├── LICENSE.md               # Licença autoral
 
 ├── AUTHORSHIP.md            # Autoria e direitos
 
